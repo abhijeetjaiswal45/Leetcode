@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0058-length-of-last-word](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0058-length-of-last-word) |
 ## Manacher
 |  |
 | ------- |
