@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0704-binary-search) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -96,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0005-longest-palindromic-substring) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
