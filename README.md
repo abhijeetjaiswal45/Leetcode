@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0509-fibonacci-number) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0058-length-of-last-word) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Manacher
