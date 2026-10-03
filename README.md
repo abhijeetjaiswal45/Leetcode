@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -137,4 +138,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
