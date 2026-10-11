@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0020-valid-parentheses) |
+| [0234-palindrome-linked-list](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0876-middle-of-the-linked-list) |
