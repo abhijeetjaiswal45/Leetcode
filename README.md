@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0509-fibonacci-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Dynamic Programming
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0078-subsets) |
+| [0231-power-of-two](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0231-power-of-two) |
 ## Linked List
 |  |
 | ------- |
