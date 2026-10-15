@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0231-power-of-two) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Linked List
 |  |
 | ------- |
