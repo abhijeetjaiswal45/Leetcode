@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0704-binary-search) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0169-majority-element) |
+| [0455-assign-cookies](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0455-assign-cookies) |
 ## Counting
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0075-sort-colors) |
+| [0455-assign-cookies](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0455-assign-cookies) |
 ## Bubble Sort
 |  |
 | ------- |
@@ -194,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
