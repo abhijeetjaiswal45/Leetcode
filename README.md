@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0435-non-overlapping-intervals](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0283-move-zeroes) |
+| [0435-non-overlapping-intervals](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0169-majority-element) |
+| [0435-non-overlapping-intervals](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0455-assign-cookies) |
 ## Counting
 |  |
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->
