@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
