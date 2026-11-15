@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0509-fibonacci-number) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Dynamic Programming
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0509-fibonacci-number) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Recursion
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -257,4 +260,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 <!---LeetCode Topics End-->
