@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0435-non-overlapping-intervals](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -260,7 +261,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
