@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Matrix
 |  |
 | ------- |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0058-length-of-last-word) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Manacher
 |  |
 | ------- |
