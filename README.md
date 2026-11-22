@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0525-contiguous-array](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0860-lemonade-change) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0268-missing-number) |
+| [0525-contiguous-array](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0525-contiguous-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0525-contiguous-array](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/0525-contiguous-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/abhijeetjaiswal45/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
